@@ -1,8 +1,5 @@
-# flutter_app_first
+# Flutter Codelab
 
-A new Flutter application.
+First Flutter application.
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
